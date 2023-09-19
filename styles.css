@@ -1,4 +1,7 @@
- p::before{
+#container{
+	margin:20px;
+}
+p::before{
 	content: "Before Element ";
 	color:#f00;
 	font-size:20px;
